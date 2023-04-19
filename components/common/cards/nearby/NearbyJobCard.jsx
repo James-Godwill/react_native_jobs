@@ -11,7 +11,7 @@ const NearbyJobCard = (
   return (
    <TouchableOpacity style={styles.container}
    onPress ={handleNavigate}
-   >
+   >   
 
     <TouchableOpacity style={styles.logoContainer}>
 
